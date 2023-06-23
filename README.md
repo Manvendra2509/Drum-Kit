@@ -1,5 +1,11 @@
 # Drum-Kit
-Drum Kit created using HTML, CSS and Javascript. You can either click on the seven buttons or press the W, A, S, D, J, K, L keys to play music on the drum.
+Drum Kit game created using:
+- HTML
+- CSS
+- Javascript
+-
+## Rules 
+You can either click on the seven buttons or press the W, A, S, D, J, K, L keys to play music on the drum.
 
 ## Controls
 - 1st button: Tom 1 (W key)
